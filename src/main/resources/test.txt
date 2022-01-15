@@ -1,0 +1,4 @@
+hello world
+hello scala
+你好 Shawn!
+函数式编程!
